@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.env
+.env*.local
+*.db
+*.db-journal
+data/
+public/uploads/
+README.md
+PRD.md
+BUILD_INSTRUCTIONS.md
+.dockerignore
+.gitignore
