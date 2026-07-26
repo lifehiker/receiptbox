@@ -15,7 +15,7 @@
     "seed": "tsx prisma/seed.ts"
   },
   "dependencies": {
-    "@auth/prisma-adapter": "^2.7.4",
+    "@auth/prisma-adapter": "^2.11.3",
     "@hookform/resolvers": "^3.10.0",
     "@prisma/client": "^7.0.0",
     "@radix-ui/react-alert-dialog": "^1.1.4",
@@ -34,7 +34,7 @@
     "jszip": "^3.10.1",
     "lucide-react": "^0.469.0",
     "next": "^15.5.16",
-    "next-auth": "5.0.0-beta.30",
+    "next-auth": "5.0.0-beta.32",
     "papaparse": "^5.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
